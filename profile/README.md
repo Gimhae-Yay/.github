@@ -32,6 +32,9 @@
 운영자는 행사를 등록하고 현장 체크인을 진행하며, 지역 담당자는 행사 심사와 지역 운영을 맡습니다. 
 이용자는 스탬프와 미션으로 혜택과 재미를 주어 자연스럽게 지역 행사에 다시 참여할 수 있습니다.
 
+- [⚙️ 백엔드](https://github.com/Gimhae-Yay/Regional-Event-Platform-Backend)
+- [🎨 프론트 엔드](https://github.com/Gimhae-Yay/local-stamp-front) 
+
 ---
 
 ## 팀 소개
