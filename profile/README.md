@@ -40,7 +40,7 @@
 
 ## 주요 기능
 
-![](https://github.com/user-attachments/assets/42ba86f7-52d4-4b25-91d3-b78d73ac5b52)
+![](https://github.com/user-attachments/assets/92e1e8d2-b792-49ac-9a50-217f027afd6c)
 
 <details>
 <summary>🗺 원하는 지역의 행사를 확인할 수 있습니다</summary>
