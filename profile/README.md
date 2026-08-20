@@ -106,11 +106,3 @@
 ![](https://github.com/user-attachments/assets/e92b3f3e-bda1-4408-9c0a-70b0b6d62160)
 
 ---
-
-## ERD
-
----
-
-## API 명세서
-
----
