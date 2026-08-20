@@ -1,4 +1,4 @@
-![](https://github.com/user-attachments/assets/43469d27-02b8-4346-a52a-20ee60e224f7)
+![](https://github.com/user-attachments/assets/ffb3474b-e29a-4e8a-9b05-954da733f607)
 
 <h1 align="center">
 로컬스탬프
@@ -40,7 +40,7 @@
 
 ## 주요 기능
 
-![](https://github.com/user-attachments/assets/8ca98f41-53b8-4608-a1b0-9ab3dbd46e4d)
+![](https://github.com/user-attachments/assets/59a0cf74-fe7f-4054-b351-d60360c4e81e)
 
 <details>
 <summary>🗺 원하는 지역의 행사를 확인할 수 있습니다</summary>
@@ -103,6 +103,6 @@
 
 ### 역할별 주요 기능
 
-![](https://github.com/user-attachments/assets/59a0cf74-fe7f-4054-b351-d60360c4e81e)
+![](https://github.com/user-attachments/assets/509f04be-5483-4d2d-85d4-746b80272ff7)
 
 ---
