@@ -16,7 +16,6 @@
 
 ## 사용 기술
 
-<p align="center">
   <strong>프론트엔드</strong><br><br>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
@@ -24,18 +23,14 @@
   <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?logo=reactrouter&logoColor=white">
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white">
   <img alt="Vitest" src="https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white">
-</p>
 
-<p align="center">
   <strong>백엔드</strong><br><br>
   <img alt="Java 21" src="https://img.shields.io/badge/Java_21-437291?logo=openjdk&logoColor=white">
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white">
   <img alt="Spring Security" src="https://img.shields.io/badge/Spring_Security-6DB33F?logo=springsecurity&logoColor=white">
   <img alt="Spring Data JPA" src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?logo=spring&logoColor=white">
   <img alt="Flyway" src="https://img.shields.io/badge/Flyway-CC0200?logo=flyway&logoColor=white">
-</p>
 
-<p align="center">
   <strong>데이터 · 외부 연동 · 검증 및 운영</strong><br><br>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
   <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white">
@@ -47,7 +42,6 @@
   <img alt="JaCoCo" src="https://img.shields.io/badge/JaCoCo-Coverage-9B4F96">
   <img alt="Actuator" src="https://img.shields.io/badge/Actuator-6DB33F?logo=springboot&logoColor=white">
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white">
-</p>
 
 ---
 
