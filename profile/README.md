@@ -7,6 +7,16 @@
 </h2>
 
 <p align="center">
+  🚀 <a href="https://서비스-주소">서비스 체험하기</a> ·
+  ⚙️ <a href="https://github.com/Gimhae-Yay/Regional-Event-Platform-Backend">백엔드</a> ·
+  🎨 <a href="https://github.com/Gimhae-Yay/local-stamp-front">프론트엔드</a>
+</p>
+
+---
+
+## 사용 기술
+
+<p align="center">
   <strong>프론트엔드</strong><br><br>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
@@ -37,12 +47,6 @@
   <img alt="JaCoCo" src="https://img.shields.io/badge/JaCoCo-Coverage-9B4F96">
   <img alt="Actuator" src="https://img.shields.io/badge/Actuator-6DB33F?logo=springboot&logoColor=white">
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white">
-</p>
-
-<p align="center">
-  🚀 <a href="https://서비스-주소">서비스 체험하기</a> ·
-  ⚙️ <a href="https://github.com/Gimhae-Yay/Regional-Event-Platform-Backend">백엔드</a> ·
-  🎨 <a href="https://github.com/Gimhae-Yay/local-stamp-front">프론트엔드</a>
 </p>
 
 ---
