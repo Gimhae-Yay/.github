@@ -1,26 +1,49 @@
 ![](https://github.com/user-attachments/assets/ffb3474b-e29a-4e8a-9b05-954da733f607)
 
-<h1 align="center">
-로컬스탬프
-</h1>
+<h1 align="center">로컬스탬프</h1>
   
 <h2 align="center">
-예약부터 현장 체크인, 방문 기록 축적까지 올인원 플랫폼
+예약부터 현장 체크인, 방문 기록 축적까지 연결하는 지역 참여형 스탬프·리워드 플랫폼
 </h2>
 
-<div align="center">
-  
-[![Java](https://img.shields.io/badge/Java-21-437291?logo=openjdk&logoColor=white)](#)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4.1.0-6DB33F?logo=springboot&logoColor=white)](#)
-[![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white)](#)
-[![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?logo=mysql&logoColor=white)](#)
-[![Redis](https://img.shields.io/badge/Redis-7.4-DC382D?logo=redis&logoColor=white)](#)
-[![Flyway](https://img.shields.io/badge/Flyway-CC0200?logo=flyway&logoColor=white)](#)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](#)
-[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)](#)
-[![JaCoCo](https://img.shields.io/badge/Coverage%20Gate-Line%2085%25%20%2F%20Branch%2060%25-brightgreen)](#)
+<p align="center">
+  <strong>프론트엔드</strong><br><br>
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white">
+  <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?logo=reactrouter&logoColor=white">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white">
+  <img alt="Vitest" src="https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white">
+</p>
 
-</div>
+<p align="center">
+  <strong>백엔드</strong><br><br>
+  <img alt="Java 21" src="https://img.shields.io/badge/Java_21-437291?logo=openjdk&logoColor=white">
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white">
+  <img alt="Spring Security" src="https://img.shields.io/badge/Spring_Security-6DB33F?logo=springsecurity&logoColor=white">
+  <img alt="Spring Data JPA" src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?logo=spring&logoColor=white">
+  <img alt="Flyway" src="https://img.shields.io/badge/Flyway-CC0200?logo=flyway&logoColor=white">
+</p>
+
+<p align="center">
+  <strong>데이터 · 외부 연동 · 검증 및 운영</strong><br><br>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white">
+  <img alt="PortOne" src="https://img.shields.io/badge/PortOne-결제_연동-4B6BFB">
+  <img alt="AWS S3" src="https://img.shields.io/badge/AWS_S3-569A31?logo=amazons3&logoColor=white">
+  <br><br>
+  <img alt="JUnit" src="https://img.shields.io/badge/JUnit-25A162?logo=junit5&logoColor=white">
+  <img alt="Testcontainers" src="https://img.shields.io/badge/Testcontainers-2496ED?logo=docker&logoColor=white">
+  <img alt="JaCoCo" src="https://img.shields.io/badge/JaCoCo-Coverage-9B4F96">
+  <img alt="Actuator" src="https://img.shields.io/badge/Actuator-6DB33F?logo=springboot&logoColor=white">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white">
+</p>
+
+<p align="center">
+  🚀 <a href="https://서비스-주소">서비스 체험하기</a> ·
+  ⚙️ <a href="https://github.com/Gimhae-Yay/Regional-Event-Platform-Backend">백엔드</a> ·
+  🎨 <a href="https://github.com/Gimhae-Yay/local-stamp-front">프론트엔드</a>
+</p>
 
 ---
 
@@ -28,24 +51,9 @@
 
 > 개발 기간: 2026.07.21 - 2026.08.24
 
-로컬스탬프는 지역 행사와 체험을 예약하고, 현장에서 QR 체크인할 수 있는 서비스입니다. 
-운영자는 행사를 등록하고 현장 체크인을 진행하며, 지역 담당자는 행사 심사와 지역 운영을 맡습니다. 
-이용자는 스탬프와 미션으로 혜택과 재미를 주어 자연스럽게 지역 행사에 다시 참여할 수 있습니다.
+로컬스탬프는 지역 행사와 체험을 탐색·예약하고,
+현장에서 QR로 체크인한 뒤 방문 기록을 스탬프와 미션 혜택으로 이어갈 수 있는 서비스입니다.
 
-[⚙️ 백엔드](https://github.com/Gimhae-Yay/Regional-Event-Platform-Backend) · [🎨 프론트엔드](https://github.com/Gimhae-Yay/local-stamp-front) · 
-
----
-
-## 팀 소개
-
-|  팀원                                                   |  담당                                       |
-|---------------------------------------------------------|---------------------------------------------|
-|  [@Astro-Luminoso](https://github.com/Astro-Luminoso)   | 콘텐츠 관리자, 스탬프, 인프라, CI/CD          |
-|  [@kolyn092](https://github.com/kolyn092)               | 예약, 결제, 환불, 정합성 및 성능 검증         |
-|  [@minkim11](https://github.com/minkim11)               | 인증·인가, 회원, 쿠폰                        |
-|  [@devdong1231](https://github.com/devdong1231)         | 콘텐츠, 미션, 프론트엔드                     | 
-
----
 
 ## 주요 기능
 
@@ -113,5 +121,29 @@
 ### 역할별 주요 기능
 
 ![](https://github.com/user-attachments/assets/509f04be-5483-4d2d-85d4-746b80272ff7)
+
+> 이용자: 탐색·예약·체크인·리워드 / 운영자: 행사 등록·현장 체크인 / 지역 담당자: 행사 심사·지역 운영
+
+
+## 아키텍처
+
+![](https://github.com/user-attachments/assets/6986a806-6e97-4090-99d8-f8c803bd6b66)
+
+## 팀 소개
+
+|  팀원                                                   |  담당                                       |
+|---------------------------------------------------------|---------------------------------------------|
+|  [@Astro-Luminoso](https://github.com/Astro-Luminoso)   | 콘텐츠 관리자, 스탬프, 인프라, CI/CD          |
+|  [@kolyn092](https://github.com/kolyn092)               | 예약, 결제, 환불, 정합성 및 성능 검증         |
+|  [@minkim11](https://github.com/minkim11)               | 인증·인가, 회원, 쿠폰                        |
+|  [@devdong1231](https://github.com/devdong1231)         | 콘텐츠, 미션, 프론트엔드                     |
+
+## 팀 개발 원칙
+
+- API 계약, 구현, 테스트, 배포 상태를 구분해 관리합니다.
+- 예약·결제·체크인처럼 데이터 정합성이 중요한 기능은 상태 전이와 예외 흐름까지 검증합니다.
+- 비밀값은 저장소에 기록하지 않고 환경변수와 비밀 관리 수단으로 주입합니다.
+- 기술 선택과 변경 이유는 ADR, Issue, Pull Request 등 근거와 함께 남깁니다.
+- 확인하지 못한 범위는 완료로 표현하지 않고 후속 검증 항목으로 기록합니다.
 
 ---
