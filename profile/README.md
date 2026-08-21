@@ -32,19 +32,18 @@
 운영자는 행사를 등록하고 현장 체크인을 진행하며, 지역 담당자는 행사 심사와 지역 운영을 맡습니다. 
 이용자는 스탬프와 미션으로 혜택과 재미를 주어 자연스럽게 지역 행사에 다시 참여할 수 있습니다.
 
-- [⚙️ 백엔드](https://github.com/Gimhae-Yay/Regional-Event-Platform-Backend)
-- [🎨 프론트 엔드](https://github.com/Gimhae-Yay/local-stamp-front) 
+[⚙️ 백엔드](https://github.com/Gimhae-Yay/Regional-Event-Platform-Backend) · [🎨 프론트엔드](https://github.com/Gimhae-Yay/local-stamp-front) · 
 
 ---
 
 ## 팀 소개
 
-|  이름                                         |  담당                                       |
-|-----------------------------------------------|---------------------------------------------|
-|  [양한별](https://github.com/Astro-Luminoso)   | 콘텐츠 관리자, 스탬프, 인프라, CI/CD          |
-|  [고수경](https://github.com/kolyn092)         | 예약, 결제, 환불, 정합성 및 성능 검증         |
-|  [김민혁](https://github.com/minkim11)         | 인증·인가, 회원, 쿠폰                        |
-|  [김유하](https://github.com/devdong1231)      | 콘텐츠, 미션, 프론트엔드                     | 
+|  이름                                                   |  담당                                       |
+|---------------------------------------------------------|---------------------------------------------|
+|  [@Astro-Luminoso](https://github.com/Astro-Luminoso)   | 콘텐츠 관리자, 스탬프, 인프라, CI/CD          |
+|  [@kolyn092](https://github.com/kolyn092)               | 예약, 결제, 환불, 정합성 및 성능 검증         |
+|  [@minkim11](https://github.com/minkim11)               | 인증·인가, 회원, 쿠폰                        |
+|  [@devdong1231](https://github.com/devdong1231)         | 콘텐츠, 미션, 프론트엔드                     | 
 
 ---
 
