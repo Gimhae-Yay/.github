@@ -7,7 +7,7 @@
 </h2>
 
 <p align="center">
-  🚀 <a href="https://서비스-주소">서비스 체험하기</a> ·
+  🚀 <a href="https://local-stamp.org/">서비스 체험하기</a> ·
   ⚙️ <a href="https://github.com/Gimhae-Yay/Regional-Event-Platform-Backend">백엔드</a> ·
   🎨 <a href="https://github.com/Gimhae-Yay/local-stamp-front">프론트엔드</a>
 </p>
